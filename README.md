@@ -1,6 +1,6 @@
 ## Ola! Eu sou o RaphaelLucas09 ☺
 
-- 🌱 Estou aprendendo javascript
+- 🌱 Estou aprendendo React
 - 📫 Para entrar em contato mande uma mensagem para o email: niel9591@gmail.com
 - ⚡ Amo video games
 
