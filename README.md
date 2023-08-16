@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">A passionate frontend developer from Brazil</h1>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaellucas09&label=Profile%20views&color=0e75b6&style=flat" alt="raphaellucas09" /> </p>
