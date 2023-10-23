@@ -1,4 +1,10 @@
-<h1 align="center">A passionate frontend developer from Brazil</h1>
+<h1 align="center">Raphael Assunção</h1>
+
+
+<p align="justify">Olá! Sou um entusiasta de tecnologia e estudante de Sistemas para Internet apaixonado por Front-end e suas possibilidades criativas. 💻 Atualmente, estou embarcando na emocionante jornada de aprimorar minhas habilidades em HTML, CSS e JavaScript, as bases essenciais para a construção de experiências web excepcionais.
+Estou sempre aberto a trocar conhecimentos e experiências, então sinta-se à vontade para me conectar e compartilhar insights do mundo da programação e do desenvolvimento front-end. Juntos, podemos construir a web do futuro!
+#FrontEnd #HTML #CSS #JavaScript #Bootstrap #React #EstudanteDeTecnologia #SistemasParaInternet"</p>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaellucas09&label=Profile%20views&color=0e75b6&style=flat" alt="raphaellucas09" /> </p>
